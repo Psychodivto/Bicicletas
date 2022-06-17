@@ -4,7 +4,7 @@ import streamlit as st
 import codecs
 import re
 
-DATA_URL = 'https://raw.githubusercontent.com/asunawesker/nyc/main/citibike-tripdata.csv'
+DATA_URL = 'https://raw.githubusercontent.com/Psychodivto/Bicicletas/main/citibike-tripdata.csv'
 COLUMNA = 'started_at'
 
 st.title('Cicle Rides in NYC')
